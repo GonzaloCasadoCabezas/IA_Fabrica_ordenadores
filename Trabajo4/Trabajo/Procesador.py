@@ -15,6 +15,9 @@ def procesador(env, name, mf, assembly_time, going_main_time, components_store, 
     """
     max_reintentos = 3  # Límite de reintentos en caso de fallo
     reintentos = 0
+    
+    # Mensaje de llegada de todos los componentes
+    print(f'{name}: Llegan todos los componentes del procesador en el tiempo {round(env.now)}')
 
     while reintentos < max_reintentos:  # Reintentar en caso de fallo
         # Simular el tiempo de fabricación
@@ -33,7 +36,6 @@ def procesador(env, name, mf, assembly_time, going_main_time, components_store, 
         return  # Salir de la función si se supera el límite de reintentos
 
     # Pedir acceso a la fábrica principal
-    print(f'{name}: Llegan todos los componentes del procesador en el tiempo {round(env.now)}')
     with mf.request() as req:
         yield req
         

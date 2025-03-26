@@ -14,6 +14,8 @@ def almacenamiento(env, name, mf, assembly_time, going_main_time, components_sto
     """
     max_reintentos = 3  # Límite de reintentos en caso de fallo
     reintentos = 0
+    
+    print(f'{name}: Llegan todos los componentes del almacenamiento en el tiempo {round(env.now)}')
 
     while reintentos < max_reintentos:  # Reintentar en caso de fallo
         # Simular el tiempo de fabricación
@@ -34,7 +36,7 @@ def almacenamiento(env, name, mf, assembly_time, going_main_time, components_sto
     
     
     # Pedir acceso a la fábrica principal
-    print(f'{name}: Llegan todos los componentes del almacenamiento en el tiempo {round(env.now)}')
+    
     with mf.request() as req:
         yield req
         
