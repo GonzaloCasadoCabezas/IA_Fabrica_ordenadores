@@ -30,28 +30,28 @@ if __name__=='__main__':
     }
     
     #mirar esto
-    for i in range(400):
+    for i in range(4):
         env.process(procesador(env, f'Procesador {i}', mf, i, 5, 
                                components_store, transport_times['Procesador']))   
-    for i in range(400):
+    for i in range(4):
         env.process(grafica(env, f'Grafica {i}', mf, i, 3,
                             components_store, transport_times['Grafica']))        
-    for i in range(400):
+    for i in range(4):
         env.process(almacenamiento(env, f'Almacenamiento {i}', mf, i, 4,
                                    components_store, transport_times['Almacenamiento']))
-    for i in range(400):
+    for i in range(4):
         env.process(caja(env, f'Caja {i}', mf, i, 2,
                          components_store, transport_times['Caja']))
-    for i in range(400):
+    for i in range(4):
         env.process(alimentacion(env, f'FuenteDeAlimentacion {i}', mf, i, 3,
                                  components_store, transport_times['FuenteDeAlimentacion']))
-    for i in range(400):
+    for i in range(4):
         env.process(ram(env, f'MemoriaRam {i}', mf, i, 3,
                         components_store, transport_times['MemoriaRam']))
-    for i in range(400):
+    for i in range(4):
         env.process(base(env, f'PlacaBase {i}', mf, i, 4,
                          components_store, transport_times['PlacaBase']))
-    for i in range(400):
+    for i in range(4):
         env.process(refrigeracion(env, f'SistemaDeRefrigeracion {i}', mf, i, 3,
                                   components_store, transport_times['SistemaDeRefrigeracion']))
         
