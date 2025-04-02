@@ -1,0 +1,401 @@
+Component,Name,Start_Time,End_Time,Total_Time,Assembly_Time,Main_Assembly_Time,Transport_Time,Status,Transport_Delay
+GraphicsCard,GraphicsCard_0,0,0.0,0.0,0,5,3,Failed: 'graphicscard',8.0
+GraphicsCard,GraphicsCard_1,0,0.0,0.0,1,4,3,Failed: 'graphicscard',8.0
+GraphicsCard,GraphicsCard_2,0,0.0,0.0,2,3,3,Failed: 'graphicscard',8.0
+GraphicsCard,GraphicsCard_3,0,0.0,0.0,3,2,3,Failed: 'graphicscard',8.0
+GraphicsCard,GraphicsCard_4,0,0.0,0.0,4,5,3,Failed: 'graphicscard',12.0
+GraphicsCard,GraphicsCard_5,0,0.0,0.0,5,2,3,Failed: 'graphicscard',10.0
+GraphicsCard,GraphicsCard_6,0,0.0,0.0,6,4,3,Failed: 'graphicscard',13.0
+GraphicsCard,GraphicsCard_7,0,0.0,0.0,7,3,3,Failed: 'graphicscard',13.0
+GraphicsCard,GraphicsCard_8,0,0.0,0.0,8,5,3,Failed: 'graphicscard',16.0
+GraphicsCard,GraphicsCard_9,0,0.0,0.0,9,6,3,Failed: 'graphicscard',18.0
+GraphicsCard,GraphicsCard_10,0,0.0,0.0,10,7,3,Failed: 'graphicscard',20.0
+GraphicsCard,GraphicsCard_11,0,0.0,0.0,11,5,3,Failed: 'graphicscard',19.0
+GraphicsCard,GraphicsCard_12,0,0.0,0.0,12,7,3,Failed: 'graphicscard',22.0
+GraphicsCard,GraphicsCard_13,0,0.0,0.0,13,7,3,Failed: 'graphicscard',23.0
+GraphicsCard,GraphicsCard_14,0,0.0,0.0,14,5,3,Failed: 'graphicscard',22.0
+GraphicsCard,GraphicsCard_15,0,0.0,0.0,15,3,3,Failed: 'graphicscard',21.0
+GraphicsCard,GraphicsCard_16,0,0.0,0.0,16,4,3,Failed: 'graphicscard',23.0
+GraphicsCard,GraphicsCard_17,0,0.0,0.0,17,3,3,Failed: 'graphicscard',23.0
+GraphicsCard,GraphicsCard_18,0,0.0,0.0,18,7,3,Failed: 'graphicscard',28.0
+GraphicsCard,GraphicsCard_19,0,0.0,0.0,19,4,3,Failed: 'graphicscard',26.0
+GraphicsCard,GraphicsCard_20,0,0.0,0.0,20,6,3,Failed: 'graphicscard',29.0
+GraphicsCard,GraphicsCard_21,0,0.0,0.0,21,2,3,Failed: 'graphicscard',26.0
+GraphicsCard,GraphicsCard_22,0,0.0,0.0,22,3,3,Failed: 'graphicscard',28.0
+GraphicsCard,GraphicsCard_23,0,0.0,0.0,23,3,3,Failed: 'graphicscard',29.0
+GraphicsCard,GraphicsCard_24,0,0.0,0.0,24,3,3,Failed: 'graphicscard',30.0
+GraphicsCard,GraphicsCard_25,0,0.0,0.0,25,4,3,Failed: 'graphicscard',32.0
+GraphicsCard,GraphicsCard_26,0,0.0,0.0,26,3,3,Failed: 'graphicscard',32.0
+GraphicsCard,GraphicsCard_27,0,0.0,0.0,27,4,3,Failed: 'graphicscard',34.0
+GraphicsCard,GraphicsCard_28,0,0.0,0.0,28,4,3,Failed: 'graphicscard',35.0
+GraphicsCard,GraphicsCard_29,0,0.0,0.0,29,3,3,Failed: 'graphicscard',35.0
+GraphicsCard,GraphicsCard_30,0,0.0,0.0,30,2,3,Failed: 'graphicscard',35.0
+GraphicsCard,GraphicsCard_31,0,0.0,0.0,31,4,3,Failed: 'graphicscard',38.0
+GraphicsCard,GraphicsCard_32,0,0.0,0.0,32,2,3,Failed: 'graphicscard',37.0
+GraphicsCard,GraphicsCard_33,0,0.0,0.0,33,4,3,Failed: 'graphicscard',40.0
+GraphicsCard,GraphicsCard_34,0,0.0,0.0,34,2,3,Failed: 'graphicscard',39.0
+GraphicsCard,GraphicsCard_35,0,0.0,0.0,35,5,3,Failed: 'graphicscard',43.0
+GraphicsCard,GraphicsCard_36,0,0.0,0.0,36,2,3,Failed: 'graphicscard',41.0
+GraphicsCard,GraphicsCard_37,0,0.0,0.0,37,5,3,Failed: 'graphicscard',45.0
+GraphicsCard,GraphicsCard_38,0,0.0,0.0,38,4,3,Failed: 'graphicscard',45.0
+GraphicsCard,GraphicsCard_39,0,0.0,0.0,39,7,3,Failed: 'graphicscard',49.0
+GraphicsCard,GraphicsCard_40,0,0.0,0.0,40,3,3,Failed: 'graphicscard',46.0
+GraphicsCard,GraphicsCard_41,0,0.0,0.0,41,4,3,Failed: 'graphicscard',48.0
+GraphicsCard,GraphicsCard_42,0,0.0,0.0,42,6,3,Failed: 'graphicscard',51.0
+GraphicsCard,GraphicsCard_43,0,0.0,0.0,43,4,3,Failed: 'graphicscard',50.0
+GraphicsCard,GraphicsCard_44,0,0.0,0.0,44,4,3,Failed: 'graphicscard',51.0
+GraphicsCard,GraphicsCard_45,0,0.0,0.0,45,5,3,Failed: 'graphicscard',53.0
+GraphicsCard,GraphicsCard_46,0,0.0,0.0,46,7,3,Failed: 'graphicscard',56.0
+GraphicsCard,GraphicsCard_47,0,0.0,0.0,47,6,3,Failed: 'graphicscard',56.0
+GraphicsCard,GraphicsCard_48,0,0.0,0.0,48,4,3,Failed: 'graphicscard',55.0
+GraphicsCard,GraphicsCard_49,0,0.0,0.0,49,6,3,Failed: 'graphicscard',58.0
+PowerSupply,PowerSupply_0,0,0.0,0.0,0,6,4,Failed: 'powersupply',10.0
+PowerSupply,PowerSupply_1,0,0.0,0.0,1,4,4,Failed: 'powersupply',9.0
+PowerSupply,PowerSupply_2,0,0.0,0.0,2,7,4,Failed: 'powersupply',13.0
+PowerSupply,PowerSupply_3,0,0.0,0.0,3,2,4,Failed: 'powersupply',9.0
+PowerSupply,PowerSupply_4,0,0.0,0.0,4,4,4,Failed: 'powersupply',12.0
+PowerSupply,PowerSupply_5,0,0.0,0.0,5,3,4,Failed: 'powersupply',12.0
+PowerSupply,PowerSupply_6,0,0.0,0.0,6,5,4,Failed: 'powersupply',15.0
+PowerSupply,PowerSupply_7,0,0.0,0.0,7,7,4,Failed: 'powersupply',18.0
+PowerSupply,PowerSupply_8,0,0.0,0.0,8,4,4,Failed: 'powersupply',16.0
+PowerSupply,PowerSupply_9,0,0.0,0.0,9,5,4,Failed: 'powersupply',18.0
+PowerSupply,PowerSupply_10,0,0.0,0.0,10,3,4,Failed: 'powersupply',17.0
+PowerSupply,PowerSupply_11,0,0.0,0.0,11,4,4,Failed: 'powersupply',19.0
+PowerSupply,PowerSupply_12,0,0.0,0.0,12,5,4,Failed: 'powersupply',21.0
+PowerSupply,PowerSupply_13,0,0.0,0.0,13,3,4,Failed: 'powersupply',20.0
+PowerSupply,PowerSupply_14,0,0.0,0.0,14,5,4,Failed: 'powersupply',23.0
+PowerSupply,PowerSupply_15,0,0.0,0.0,15,5,4,Failed: 'powersupply',24.0
+PowerSupply,PowerSupply_16,0,0.0,0.0,16,7,4,Failed: 'powersupply',27.0
+PowerSupply,PowerSupply_17,0,0.0,0.0,17,3,4,Failed: 'powersupply',24.0
+PowerSupply,PowerSupply_18,0,0.0,0.0,18,7,4,Failed: 'powersupply',29.0
+PowerSupply,PowerSupply_19,0,0.0,0.0,19,3,4,Failed: 'powersupply',26.0
+PowerSupply,PowerSupply_20,0,0.0,0.0,20,2,4,Failed: 'powersupply',26.0
+PowerSupply,PowerSupply_21,0,0.0,0.0,21,5,4,Failed: 'powersupply',30.0
+PowerSupply,PowerSupply_22,0,0.0,0.0,22,6,4,Failed: 'powersupply',32.0
+PowerSupply,PowerSupply_23,0,0.0,0.0,23,4,4,Failed: 'powersupply',31.0
+PowerSupply,PowerSupply_24,0,0.0,0.0,24,2,4,Failed: 'powersupply',30.0
+PowerSupply,PowerSupply_25,0,0.0,0.0,25,7,4,Failed: 'powersupply',36.0
+PowerSupply,PowerSupply_26,0,0.0,0.0,26,3,4,Failed: 'powersupply',33.0
+PowerSupply,PowerSupply_27,0,0.0,0.0,27,6,4,Failed: 'powersupply',37.0
+PowerSupply,PowerSupply_28,0,0.0,0.0,28,6,4,Failed: 'powersupply',38.0
+PowerSupply,PowerSupply_29,0,0.0,0.0,29,3,4,Failed: 'powersupply',36.0
+PowerSupply,PowerSupply_30,0,0.0,0.0,30,6,4,Failed: 'powersupply',40.0
+PowerSupply,PowerSupply_31,0,0.0,0.0,31,4,4,Failed: 'powersupply',39.0
+PowerSupply,PowerSupply_32,0,0.0,0.0,32,6,4,Failed: 'powersupply',42.0
+PowerSupply,PowerSupply_33,0,0.0,0.0,33,6,4,Failed: 'powersupply',43.0
+PowerSupply,PowerSupply_34,0,0.0,0.0,34,6,4,Failed: 'powersupply',44.0
+PowerSupply,PowerSupply_35,0,0.0,0.0,35,3,4,Failed: 'powersupply',42.0
+PowerSupply,PowerSupply_36,0,0.0,0.0,36,5,4,Failed: 'powersupply',45.0
+PowerSupply,PowerSupply_37,0,0.0,0.0,37,7,4,Failed: 'powersupply',48.0
+PowerSupply,PowerSupply_38,0,0.0,0.0,38,4,4,Failed: 'powersupply',46.0
+PowerSupply,PowerSupply_39,0,0.0,0.0,39,4,4,Failed: 'powersupply',47.0
+PowerSupply,PowerSupply_40,0,0.0,0.0,40,5,4,Failed: 'powersupply',49.0
+PowerSupply,PowerSupply_41,0,0.0,0.0,41,2,4,Failed: 'powersupply',47.0
+PowerSupply,PowerSupply_42,0,0.0,0.0,42,3,4,Failed: 'powersupply',49.0
+PowerSupply,PowerSupply_43,0,0.0,0.0,43,3,4,Failed: 'powersupply',50.0
+PowerSupply,PowerSupply_44,0,0.0,0.0,44,4,4,Failed: 'powersupply',52.0
+PowerSupply,PowerSupply_45,0,0.0,0.0,45,4,4,Failed: 'powersupply',53.0
+PowerSupply,PowerSupply_46,0,0.0,0.0,46,5,4,Failed: 'powersupply',55.0
+PowerSupply,PowerSupply_47,0,0.0,0.0,47,4,4,Failed: 'powersupply',55.0
+PowerSupply,PowerSupply_48,0,0.0,0.0,48,3,4,Failed: 'powersupply',55.0
+PowerSupply,PowerSupply_49,0,0.0,0.0,49,2,4,Failed: 'powersupply',55.0
+Motherboard,Motherboard_0,0,0.0,0.0,0,5,6,Failed: 'motherboard',11.0
+Motherboard,Motherboard_1,0,0.0,0.0,1,4,6,Failed: 'motherboard',11.0
+Motherboard,Motherboard_2,0,0.0,0.0,2,5,6,Failed: 'motherboard',13.0
+Motherboard,Motherboard_3,0,0.0,0.0,3,4,6,Failed: 'motherboard',13.0
+Motherboard,Motherboard_4,0,0.0,0.0,4,7,6,Failed: 'motherboard',17.0
+Motherboard,Motherboard_5,0,0.0,0.0,5,4,6,Failed: 'motherboard',15.0
+Motherboard,Motherboard_6,0,0.0,0.0,6,2,6,Failed: 'motherboard',14.0
+Motherboard,Motherboard_7,0,0.0,0.0,7,3,6,Failed: 'motherboard',16.0
+Motherboard,Motherboard_8,0,0.0,0.0,8,6,6,Failed: 'motherboard',20.0
+Motherboard,Motherboard_9,0,0.0,0.0,9,7,6,Failed: 'motherboard',22.0
+Motherboard,Motherboard_10,0,0.0,0.0,10,3,6,Failed: 'motherboard',19.0
+Motherboard,Motherboard_11,0,0.0,0.0,11,4,6,Failed: 'motherboard',21.0
+Motherboard,Motherboard_12,0,0.0,0.0,12,6,6,Failed: 'motherboard',24.0
+Motherboard,Motherboard_13,0,0.0,0.0,13,5,6,Failed: 'motherboard',24.0
+Motherboard,Motherboard_14,0,0.0,0.0,14,2,6,Failed: 'motherboard',22.0
+Motherboard,Motherboard_15,0,0.0,0.0,15,5,6,Failed: 'motherboard',26.0
+Motherboard,Motherboard_16,0,0.0,0.0,16,3,6,Failed: 'motherboard',25.0
+Motherboard,Motherboard_17,0,0.0,0.0,17,3,6,Failed: 'motherboard',26.0
+Motherboard,Motherboard_18,0,0.0,0.0,18,7,6,Failed: 'motherboard',31.0
+Motherboard,Motherboard_19,0,0.0,0.0,19,3,6,Failed: 'motherboard',28.0
+Motherboard,Motherboard_20,0,0.0,0.0,20,6,6,Failed: 'motherboard',32.0
+Motherboard,Motherboard_21,0,0.0,0.0,21,6,6,Failed: 'motherboard',33.0
+Motherboard,Motherboard_22,0,0.0,0.0,22,5,6,Failed: 'motherboard',33.0
+Motherboard,Motherboard_23,0,0.0,0.0,23,4,6,Failed: 'motherboard',33.0
+Motherboard,Motherboard_24,0,0.0,0.0,24,2,6,Failed: 'motherboard',32.0
+Motherboard,Motherboard_25,0,0.0,0.0,25,5,6,Failed: 'motherboard',36.0
+Motherboard,Motherboard_26,0,0.0,0.0,26,7,6,Failed: 'motherboard',39.0
+Motherboard,Motherboard_27,0,0.0,0.0,27,3,6,Failed: 'motherboard',36.0
+Motherboard,Motherboard_28,0,0.0,0.0,28,3,6,Failed: 'motherboard',37.0
+Motherboard,Motherboard_29,0,0.0,0.0,29,4,6,Failed: 'motherboard',39.0
+Motherboard,Motherboard_30,0,0.0,0.0,30,6,6,Failed: 'motherboard',42.0
+Motherboard,Motherboard_31,0,0.0,0.0,31,2,6,Failed: 'motherboard',39.0
+Motherboard,Motherboard_32,0,0.0,0.0,32,6,6,Failed: 'motherboard',44.0
+Motherboard,Motherboard_33,0,0.0,0.0,33,2,6,Failed: 'motherboard',41.0
+Motherboard,Motherboard_34,0,0.0,0.0,34,2,6,Failed: 'motherboard',42.0
+Motherboard,Motherboard_35,0,0.0,0.0,35,3,6,Failed: 'motherboard',44.0
+Motherboard,Motherboard_36,0,0.0,0.0,36,4,6,Failed: 'motherboard',46.0
+Motherboard,Motherboard_37,0,0.0,0.0,37,7,6,Failed: 'motherboard',50.0
+Motherboard,Motherboard_38,0,0.0,0.0,38,5,6,Failed: 'motherboard',49.0
+Motherboard,Motherboard_39,0,0.0,0.0,39,2,6,Failed: 'motherboard',47.0
+Motherboard,Motherboard_40,0,0.0,0.0,40,3,6,Failed: 'motherboard',49.0
+Motherboard,Motherboard_41,0,0.0,0.0,41,4,6,Failed: 'motherboard',51.0
+Motherboard,Motherboard_42,0,0.0,0.0,42,2,6,Failed: 'motherboard',50.0
+Motherboard,Motherboard_43,0,0.0,0.0,43,5,6,Failed: 'motherboard',54.0
+Motherboard,Motherboard_44,0,0.0,0.0,44,4,6,Failed: 'motherboard',54.0
+Motherboard,Motherboard_45,0,0.0,0.0,45,7,6,Failed: 'motherboard',58.0
+Motherboard,Motherboard_46,0,0.0,0.0,46,6,6,Failed: 'motherboard',58.0
+Motherboard,Motherboard_47,0,0.0,0.0,47,6,6,Failed: 'motherboard',59.0
+Motherboard,Motherboard_48,0,0.0,0.0,48,3,6,Failed: 'motherboard',57.0
+Motherboard,Motherboard_49,0,0.0,0.0,49,4,6,Failed: 'motherboard',59.0
+CoolingSystem,CoolingSystem_0,0,0.0,0.0,0,5,3,Failed: 'coolingsystem',8.0
+CoolingSystem,CoolingSystem_1,0,0.0,0.0,1,2,3,Failed: 'coolingsystem',6.0
+CoolingSystem,CoolingSystem_2,0,0.0,0.0,2,2,3,Failed: 'coolingsystem',7.0
+CoolingSystem,CoolingSystem_3,0,0.0,0.0,3,4,3,Failed: 'coolingsystem',10.0
+CoolingSystem,CoolingSystem_4,0,0.0,0.0,4,4,3,Failed: 'coolingsystem',11.0
+CoolingSystem,CoolingSystem_5,0,0.0,0.0,5,6,3,Failed: 'coolingsystem',14.0
+CoolingSystem,CoolingSystem_6,0,0.0,0.0,6,6,3,Failed: 'coolingsystem',15.0
+CoolingSystem,CoolingSystem_7,0,0.0,0.0,7,2,3,Failed: 'coolingsystem',12.0
+CoolingSystem,CoolingSystem_8,0,0.0,0.0,8,2,3,Failed: 'coolingsystem',13.0
+CoolingSystem,CoolingSystem_9,0,0.0,0.0,9,7,3,Failed: 'coolingsystem',19.0
+CoolingSystem,CoolingSystem_10,0,0.0,0.0,10,3,3,Failed: 'coolingsystem',16.0
+CoolingSystem,CoolingSystem_11,0,0.0,0.0,11,3,3,Failed: 'coolingsystem',17.0
+CoolingSystem,CoolingSystem_12,0,0.0,0.0,12,6,3,Failed: 'coolingsystem',21.0
+CoolingSystem,CoolingSystem_13,0,0.0,0.0,13,6,3,Failed: 'coolingsystem',22.0
+CoolingSystem,CoolingSystem_14,0,0.0,0.0,14,5,3,Failed: 'coolingsystem',22.0
+CoolingSystem,CoolingSystem_15,0,0.0,0.0,15,6,3,Failed: 'coolingsystem',24.0
+CoolingSystem,CoolingSystem_16,0,0.0,0.0,16,6,3,Failed: 'coolingsystem',25.0
+CoolingSystem,CoolingSystem_17,0,0.0,0.0,17,6,3,Failed: 'coolingsystem',26.0
+CoolingSystem,CoolingSystem_18,0,0.0,0.0,18,3,3,Failed: 'coolingsystem',24.0
+CoolingSystem,CoolingSystem_19,0,0.0,0.0,19,4,3,Failed: 'coolingsystem',26.0
+CoolingSystem,CoolingSystem_20,0,0.0,0.0,20,7,3,Failed: 'coolingsystem',30.0
+CoolingSystem,CoolingSystem_21,0,0.0,0.0,21,4,3,Failed: 'coolingsystem',28.0
+CoolingSystem,CoolingSystem_22,0,0.0,0.0,22,5,3,Failed: 'coolingsystem',30.0
+CoolingSystem,CoolingSystem_23,0,0.0,0.0,23,6,3,Failed: 'coolingsystem',32.0
+CoolingSystem,CoolingSystem_24,0,0.0,0.0,24,6,3,Failed: 'coolingsystem',33.0
+CoolingSystem,CoolingSystem_25,0,0.0,0.0,25,5,3,Failed: 'coolingsystem',33.0
+CoolingSystem,CoolingSystem_26,0,0.0,0.0,26,4,3,Failed: 'coolingsystem',33.0
+CoolingSystem,CoolingSystem_27,0,0.0,0.0,27,5,3,Failed: 'coolingsystem',35.0
+CoolingSystem,CoolingSystem_28,0,0.0,0.0,28,2,3,Failed: 'coolingsystem',33.0
+CoolingSystem,CoolingSystem_29,0,0.0,0.0,29,4,3,Failed: 'coolingsystem',36.0
+CoolingSystem,CoolingSystem_30,0,0.0,0.0,30,6,3,Failed: 'coolingsystem',39.0
+CoolingSystem,CoolingSystem_31,0,0.0,0.0,31,5,3,Failed: 'coolingsystem',39.0
+CoolingSystem,CoolingSystem_32,0,0.0,0.0,32,2,3,Failed: 'coolingsystem',37.0
+CoolingSystem,CoolingSystem_33,0,0.0,0.0,33,6,3,Failed: 'coolingsystem',42.0
+CoolingSystem,CoolingSystem_34,0,0.0,0.0,34,5,3,Failed: 'coolingsystem',42.0
+CoolingSystem,CoolingSystem_35,0,0.0,0.0,35,4,3,Failed: 'coolingsystem',42.0
+CoolingSystem,CoolingSystem_36,0,0.0,0.0,36,3,3,Failed: 'coolingsystem',42.0
+CoolingSystem,CoolingSystem_37,0,0.0,0.0,37,5,3,Failed: 'coolingsystem',45.0
+CoolingSystem,CoolingSystem_38,0,0.0,0.0,38,6,3,Failed: 'coolingsystem',47.0
+CoolingSystem,CoolingSystem_39,0,0.0,0.0,39,3,3,Failed: 'coolingsystem',45.0
+CoolingSystem,CoolingSystem_40,0,0.0,0.0,40,5,3,Failed: 'coolingsystem',48.0
+CoolingSystem,CoolingSystem_41,0,0.0,0.0,41,2,3,Failed: 'coolingsystem',46.0
+CoolingSystem,CoolingSystem_42,0,0.0,0.0,42,3,3,Failed: 'coolingsystem',48.0
+CoolingSystem,CoolingSystem_43,0,0.0,0.0,43,4,3,Failed: 'coolingsystem',50.0
+CoolingSystem,CoolingSystem_44,0,0.0,0.0,44,6,3,Failed: 'coolingsystem',53.0
+CoolingSystem,CoolingSystem_45,0,0.0,0.0,45,3,3,Failed: 'coolingsystem',51.0
+CoolingSystem,CoolingSystem_46,0,0.0,0.0,46,6,3,Failed: 'coolingsystem',55.0
+CoolingSystem,CoolingSystem_47,0,0.0,0.0,47,7,3,Failed: 'coolingsystem',57.0
+CoolingSystem,CoolingSystem_48,0,0.0,0.0,48,3,3,Failed: 'coolingsystem',54.0
+CoolingSystem,CoolingSystem_49,0,0.0,0.0,49,2,3,Failed: 'coolingsystem',54.0
+Processor,Processor_0,0,8.187138033491472,8.187138033491472,0,6,2,Success,-0.18713803349147184
+Storage,Storage_0,0,16.80780297741611,16.80780297741611,0,5,3,Success,-8.80780297741611
+Box,Box_0,0,23.532623132562637,23.532623132562637,0,3,2,Success,-18.532623132562637
+RAM,RAM_0,0,33.05040636603856,33.05040636603856,0,5,3,Success,-25.05040636603856
+Processor,Processor_1,0,38.513864797991765,38.513864797991765,1,3,2,Success,-32.513864797991765
+Storage,Storage_1,0,45.87915931068029,45.87915931068029,1,4,3,Success,-37.87915931068029
+Box,Box_1,0,54.21030613554031,54.21030613554031,1,5,2,Success,-46.21030613554031
+RAM,RAM_1,0,63.275628671541725,63.275628671541725,1,6,3,Success,-53.275628671541725
+Processor,Processor_2,0,69.5289700133557,69.5289700133557,2,4,2,Success,-61.5289700133557
+Storage,Storage_2,0,77.16035779362227,77.16035779362227,2,3,3,Success,-69.16035779362227
+Box,Box_2,0,82.8332885627811,82.8332885627811,2,2,2,Success,-76.8332885627811
+Storage,Storage_3,0,88.69042313801928,88.69042313801928,3,2,3,Success,-80.69042313801928
+Box,Box_3,0,95.38680108514204,95.38680108514204,3,4,2,Success,-86.38680108514204
+RAM,RAM_3,0,106.29576713372792,106.29576713372792,3,6,3,Success,-94.29576713372792
+Processor,Processor_4,0,112.00868816520884,112.00868816520884,4,3,2,Success,-103.00868816520884
+Storage,Storage_4,0,121.63020890312718,121.63020890312718,4,6,3,Success,-108.63020890312718
+Box,Box_4,0,127.77319534000075,127.77319534000075,4,4,2,Success,-117.77319534000075
+RAM,RAM_4,0,135.18484891522797,135.18484891522797,4,4,3,Success,-124.18484891522797
+RAM,RAM_2,0,145.27866518245165,145.27866518245165,2,7,3,Success,-133.27866518245165
+Processor,Processor_5,0,150.39547708569796,150.39547708569796,5,2,2,Success,-141.39547708569796
+Storage,Storage_5,0,157.34902449661965,157.34902449661965,5,2,3,Success,-147.34902449661965
+Box,Box_5,0,164.36912964398059,164.36912964398059,5,5,2,Success,-152.36912964398059
+RAM,RAM_5,0,174.34126534449567,174.34126534449567,5,6,3,Success,-160.34126534449567
+Processor,Processor_6,0,181.18213492619043,181.18213492619043,6,4,2,Success,-169.18213492619043
+Storage,Storage_6,0,190.59068486826004,190.59068486826004,6,5,3,Success,-176.59068486826004
+Box,Box_6,0,199.71891396179035,199.71891396179035,6,7,2,Success,-184.71891396179035
+RAM,RAM_6,0,207.09578555036992,207.09578555036992,6,4,3,Success,-194.09578555036992
+Processor,Processor_3,0,213.793965841857,213.793965841857,3,4,2,Success,-204.793965841857
+Processor,Processor_7,0,218.45214523970796,218.45214523970796,7,2,2,Success,-207.45214523970796
+Storage,Storage_7,0,227.28154428507267,227.28154428507267,7,5,3,Success,-212.28154428507267
+Box,Box_7,0,236.25814919552033,236.25814919552033,7,6,2,Success,-221.25814919552033
+RAM,RAM_7,0,243.0499873210062,243.0499873210062,7,3,3,Success,-230.0499873210062
+Processor,Processor_8,0,250.7681367522001,250.7681367522001,8,5,2,Success,-235.7681367522001
+Storage,Storage_8,0,258.64459896404094,258.64459896404094,8,3,3,Success,-244.64459896404094
+Box,Box_8,0,265.84962362659456,265.84962362659456,8,5,2,Success,-250.84962362659456
+RAM,RAM_8,0,271.36394279447137,271.36394279447137,8,2,3,Success,-258.36394279447137
+Processor,Processor_9,0,276.74877498476224,276.74877498476224,9,2,2,Success,-263.74877498476224
+Box,Box_9,0,285.4851525693226,285.4851525693226,9,6,2,Success,-268.4851525693226
+RAM,RAM_9,0,292.865195078795,292.865195078795,9,4,3,Success,-276.865195078795
+Processor,Processor_10,0,300.5962619176764,300.5962619176764,10,4,2,Success,-284.5962619176764
+Storage,Storage_10,0,311.44076420008895,311.44076420008895,10,7,3,Success,-291.44076420008895
+Box,Box_10,0,318.7313776972068,318.7313776972068,10,4,2,Success,-302.7313776972068
+RAM,RAM_10,0,328.5742923596946,328.5742923596946,10,5,3,Success,-310.5742923596946
+Processor,Processor_11,0,336.43247751285696,336.43247751285696,11,4,2,Success,-319.43247751285696
+Storage,Storage_11,0,346.30601916526115,346.30601916526115,11,6,3,Success,-326.30601916526115
+Box,Box_11,0,355.2007738241186,355.2007738241186,11,6,2,Success,-336.2007738241186
+RAM,RAM_11,0,361.2815251152537,361.2815251152537,11,3,3,Success,-344.2815251152537
+Box,Box_12,0,369.384622048826,369.384622048826,12,6,2,Success,-349.384622048826
+RAM,RAM_12,0,377.256984458345,377.256984458345,12,3,3,Success,-359.256984458345
+Processor,Processor_13,0,383.1503681774838,383.1503681774838,13,2,2,Success,-366.1503681774838
+Storage,Storage_13,0,389.9355258636044,389.9355258636044,13,3,3,Success,-370.9355258636044
+Box,Box_13,0,396.6019403754661,396.6019403754661,13,3,2,Success,-378.6019403754661
+RAM,RAM_13,0,408.0651203859686,408.0651203859686,13,7,3,Success,-385.0651203859686
+Processor,Processor_14,0,413.8006813149865,413.8006813149865,14,3,2,Success,-394.8006813149865
+Storage,Storage_14,0,423.92689631593055,423.92689631593055,14,7,3,Success,-399.92689631593055
+Box,Box_14,0,433.1382778136926,433.1382778136926,14,6,2,Success,-411.1382778136926
+Processor,Processor_15,0,441.380463987891,441.380463987891,15,6,2,Success,-418.380463987891
+Storage,Storage_15,0,450.269249594392,450.269249594392,15,5,3,Success,-427.269249594392
+Box,Box_15,0,458.2694240917781,458.2694240917781,15,5,2,Success,-436.2694240917781
+RAM,RAM_15,0,468.3353636050029,468.3353636050029,15,7,3,Success,-443.3353636050029
+Processor,Processor_16,0,472.7446022981787,472.7446022981787,16,2,2,Success,-452.7446022981787
+Storage,Storage_16,0,481.3186088305509,481.3186088305509,16,5,3,Success,-457.3186088305509
+Box,Box_16,0,488.7244648779288,488.7244648779288,16,4,2,Success,-466.7244648779288
+RAM,RAM_16,0,496.0278784526213,496.0278784526213,16,4,3,Success,-473.0278784526213
+Processor,Processor_17,0,506.23781743283837,506.23781743283837,17,7,2,Success,-480.23781743283837
+Storage,Storage_17,0,515.9592147616085,515.9592147616085,17,6,3,Success,-489.95921476160845
+Box,Box_17,0,523.0280009618056,523.0280009618056,17,4,2,Success,-500.02800096180556
+RAM,RAM_17,0,533.7593362446448,533.7593362446448,17,6,3,Success,-507.7593362446448
+Storage,Storage_18,0,541.9906040615298,541.9906040615298,18,4,3,Success,-516.9906040615298
+Box,Box_18,0,548.6673556625659,548.6673556625659,18,3,2,Success,-525.6673556625659
+RAM,RAM_18,0,555.0833352167747,555.0833352167747,18,3,3,Success,-531.0833352167747
+Storage,Storage_9,0,563.5647809718428,563.5647809718428,9,5,3,Success,-546.5647809718428
+Processor,Processor_19,0,569.5165136007562,569.5165136007562,19,3,2,Success,-545.5165136007562
+Storage,Storage_19,0,574.9597882156985,574.9597882156985,19,2,3,Success,-550.9597882156985
+Box,Box_19,0,582.584098648231,582.584098648231,19,5,2,Success,-556.584098648231
+RAM,RAM_19,0,592.1372203962412,592.1372203962412,19,5,3,Success,-565.1372203962412
+Box,Box_20,0,597.5309918280382,597.5309918280382,20,3,2,Success,-572.5309918280382
+RAM,RAM_20,0,607.4956088239226,607.4956088239226,20,6,3,Success,-578.4956088239226
+Storage,Storage_21,0,616.1572467332758,616.1572467332758,21,5,3,Success,-587.1572467332758
+Box,Box_21,0,624.4101320517775,624.4101320517775,21,5,2,Success,-596.4101320517775
+RAM,RAM_21,0,632.3366159184616,632.3366159184616,21,4,3,Success,-604.3366159184616
+Storage,Storage_22,0,641.1566533172421,641.1566533172421,22,4,3,Success,-612.1566533172421
+Box,Box_22,0,650.0293687713389,650.0293687713389,22,6,2,Success,-620.0293687713389
+RAM,RAM_22,0,658.856375920401,658.856375920401,22,4,3,Success,-629.856375920401
+Processor,Processor_23,0,667.0150254640932,667.0150254640932,23,6,2,Success,-636.0150254640932
+Storage,Storage_23,0,676.8023319943654,676.8023319943654,23,6,3,Success,-644.8023319943654
+Box,Box_23,0,685.7343075674175,685.7343075674175,23,6,2,Success,-654.7343075674175
+RAM,RAM_23,0,692.9313951370488,692.9313951370488,23,4,3,Success,-662.9313951370488
+Processor,Processor_24,0,699.6744848518533,699.6744848518533,24,3,2,Success,-670.6744848518533
+Storage,Storage_24,0,710.3631292807339,710.3631292807339,24,6,3,Success,-677.3631292807339
+Box,Box_24,0,718.1286674005005,718.1286674005005,24,5,2,Success,-687.1286674005005
+RAM,RAM_24,0,725.2562693013864,725.2562693013864,24,3,3,Success,-695.2562693013864
+Storage,Storage_12,0,733.317054000846,733.317054000846,12,4,3,Success,-714.317054000846
+Processor,Processor_25,0,740.7833508044133,740.7833508044133,25,5,2,Success,-708.7833508044133
+Storage,Storage_25,0,750.8980742805999,750.8980742805999,25,7,3,Success,-715.8980742805999
+Box,Box_25,0,758.2903996434051,758.2903996434051,25,4,2,Success,-727.2903996434051
+RAM,RAM_25,0,765.8702876222752,765.8702876222752,25,3,3,Success,-734.8702876222752
+Processor,Processor_26,0,773.7585791403238,773.7585791403238,26,5,2,Success,-740.7585791403238
+Storage,Storage_26,0,782.9776073192647,782.9776073192647,26,5,3,Success,-748.9776073192647
+Box,Box_26,0,791.1924026588947,791.1924026588947,26,5,2,Success,-758.1924026588947
+RAM,RAM_26,0,798.7465546601948,798.7465546601948,26,3,3,Success,-766.7465546601948
+Processor,Processor_27,0,807.0964912335286,807.0964912335286,27,6,2,Success,-772.0964912335286
+Storage,Storage_27,0,815.1370354191289,815.1370354191289,27,4,3,Success,-781.1370354191289
+Box,Box_27,0,821.953118234918,821.953118234918,27,3,2,Success,-789.953118234918
+RAM,RAM_27,0,827.7876047761891,827.7876047761891,27,2,3,Success,-795.7876047761891
+Processor,Processor_28,0,835.2605966894135,835.2605966894135,28,4,2,Success,-801.2605966894135
+Storage,Storage_28,0,844.4263902510993,844.4263902510993,28,6,3,Success,-807.4263902510993
+Box,Box_28,0,849.1975475984761,849.1975475984761,28,2,2,Success,-817.1975475984761
+RAM,RAM_28,0,859.3239021046148,859.3239021046148,28,7,3,Success,-821.3239021046148
+RAM,RAM_14,0,865.255481675001,865.255481675001,14,2,3,Success,-846.255481675001
+Processor,Processor_29,0,872.5208284246837,872.5208284246837,29,4,2,Success,-837.5208284246837
+Storage,Storage_29,0,877.7905724779952,877.7905724779952,29,2,3,Success,-843.7905724779952
+Box,Box_29,0,886.1270441301497,886.1270441301497,29,6,2,Success,-849.1270441301497
+RAM,RAM_29,0,892.5262538319844,892.5262538319844,29,2,3,Success,-858.5262538319844
+Processor,Processor_30,0,900.7829652276613,900.7829652276613,30,6,2,Success,-862.7829652276613
+Storage,Storage_30,0,910.7122765473547,910.7122765473547,30,5,3,Success,-872.7122765473547
+Box,Box_30,0,918.309038776921,918.309038776921,30,4,2,Success,-882.309038776921
+RAM,RAM_30,0,929.140944770062,929.140944770062,30,7,3,Success,-889.140944770062
+Processor,Processor_31,0,936.4615631082622,936.4615631082622,31,5,2,Success,-898.4615631082622
+Storage,Storage_31,0,945.9980166178441,945.9980166178441,31,6,3,Success,-905.9980166178441
+Box,Box_31,0,953.4620303226992,953.4620303226992,31,5,2,Success,-915.4620303226992
+RAM,RAM_31,0,960.0950014484835,960.0950014484835,31,2,3,Success,-924.0950014484835
+Processor,Processor_32,0,967.6884083669983,967.6884083669983,32,5,2,Success,-928.6884083669983
+Storage,Storage_32,0,976.8645709912693,976.8645709912693,32,5,3,Success,-936.8645709912693
+Box,Box_32,0,982.9629427913069,982.9629427913069,32,4,2,Success,-944.9629427913069
+RAM,RAM_32,0,992.6975096036597,992.6975096036597,32,5,3,Success,-952.6975096036597
+Processor,Processor_33,0,1001.5564289398885,1001.5564289398885,33,5,2,Success,-961.5564289398885
+Storage,Storage_33,0,1009.0922106689878,1009.0922106689878,33,3,3,Success,-970.0922106689878
+Box,Box_33,0,1016.3144360734791,1016.3144360734791,33,4,2,Success,-977.3144360734791
+RAM,RAM_33,0,1024.3659336547958,1024.3659336547958,33,5,3,Success,-983.3659336547958
+Processor,Processor_34,0,1031.6828575230302,1031.6828575230302,34,5,2,Success,-990.6828575230302
+Storage,Storage_34,0,1040.348934401081,1040.348934401081,34,5,3,Success,-998.3489344010809
+Box,Box_34,0,1049.6805543760747,1049.6805543760747,34,6,2,Success,-1007.6805543760747
+RAM,RAM_34,0,1055.0031003712772,1055.0031003712772,34,2,3,Success,-1016.0031003712772
+Processor,Processor_35,0,1063.08212678872,1063.08212678872,35,6,2,Success,-1020.08212678872
+Storage,Storage_35,0,1071.5688787927666,1071.5688787927666,35,5,3,Success,-1028.5688787927666
+RAM,RAM_35,0,1082.263738121864,1082.263738121864,35,7,3,Success,-1037.263738121864
+Processor,Processor_36,0,1088.430878027179,1088.430878027179,36,4,2,Success,-1046.430878027179
+Storage,Storage_36,0,1097.2564543543515,1097.2564543543515,36,4,3,Success,-1054.2564543543515
+Box,Box_36,0,1106.126709827191,1106.126709827191,36,6,2,Success,-1062.126709827191
+RAM,RAM_36,0,1115.315717258178,1115.315717258178,36,6,3,Success,-1070.315717258178
+Processor,Processor_18,0,1123.4282406429306,1123.4282406429306,18,5,2,Success,-1098.4282406429306
+Processor,Processor_12,0,1132.5296900670492,1132.5296900670492,12,7,2,Success,-1111.5296900670492
+Processor,Processor_37,0,1140.8438326702833,1140.8438326702833,37,5,2,Success,-1096.8438326702833
+Storage,Storage_37,0,1151.1527616383257,1151.1527616383257,37,6,3,Success,-1105.1527616383257
+Box,Box_37,0,1159.9816616460942,1159.9816616460942,37,6,2,Success,-1114.9816616460942
+RAM,RAM_37,0,1169.293207423974,1169.293207423974,37,6,3,Success,-1123.293207423974
+Processor,Processor_38,0,1176.637011638971,1176.637011638971,38,4,2,Success,-1132.637011638971
+Storage,Storage_38,0,1183.978665067206,1183.978665067206,38,4,3,Success,-1138.978665067206
+Box,Box_38,0,1190.508332237967,1190.508332237967,38,3,2,Success,-1147.508332237967
+RAM,RAM_38,0,1198.6721335410077,1198.6721335410077,38,4,3,Success,-1153.6721335410077
+Processor,Processor_39,0,1204.147934836047,1204.147934836047,39,2,2,Success,-1161.147934836047
+Storage,Storage_39,0,1212.0621007206394,1212.0621007206394,39,3,3,Success,-1167.0621007206394
+Box,Box_39,0,1222.2930686817047,1222.2930686817047,39,7,2,Success,-1174.2930686817047
+RAM,RAM_39,0,1228.9148951878603,1228.9148951878603,39,3,3,Success,-1183.9148951878603
+Processor,Processor_40,0,1237.7786407837555,1237.7786407837555,40,6,2,Success,-1189.7786407837555
+Storage,Storage_40,0,1246.9806699547414,1246.9806699547414,40,5,3,Success,-1198.9806699547414
+Box,Box_40,0,1252.8095221100916,1252.8095221100916,40,2,2,Success,-1208.8095221100916
+RAM,RAM_40,0,1259.0969414917167,1259.0969414917167,40,3,3,Success,-1213.0969414917167
+Processor,Processor_20,0,1267.554595659419,1267.554595659419,20,6,2,Success,-1239.554595659419
+Storage,Storage_20,0,1275.042609667107,1275.042609667107,20,3,3,Success,-1249.042609667107
+Processor,Processor_41,0,1281.6238303750158,1281.6238303750158,41,3,2,Success,-1235.6238303750158
+Storage,Storage_41,0,1288.6353700003365,1288.6353700003365,41,3,3,Success,-1241.6353700003365
+Box,Box_41,0,1296.6140776816271,1296.6140776816271,41,4,2,Success,-1249.6140776816271
+RAM,RAM_41,0,1303.789167364301,1303.789167364301,41,3,3,Success,-1256.789167364301
+Processor,Processor_42,0,1313.676573695477,1313.676573695477,42,6,2,Success,-1263.676573695477
+Storage,Storage_42,0,1321.0712572377115,1321.0712572377115,42,4,3,Success,-1272.0712572377115
+Box,Box_42,0,1329.1301249331723,1329.1301249331723,42,5,2,Success,-1280.1301249331723
+RAM,RAM_42,0,1337.5949111572188,1337.5949111572188,42,5,3,Success,-1287.5949111572188
+Processor,Processor_21,0,1347.387229110103,1347.387229110103,21,6,2,Success,-1318.387229110103
+Processor,Processor_43,0,1356.624633234459,1356.624633234459,43,7,2,Success,-1304.624633234459
+Storage,Storage_43,0,1364.229932448407,1364.229932448407,43,4,3,Success,-1314.229932448407
+RAM,RAM_43,0,1373.5843658612687,1373.5843658612687,43,6,3,Success,-1321.5843658612687
+Processor,Processor_44,0,1380.616987714305,1380.616987714305,44,5,2,Success,-1329.616987714305
+Storage,Storage_44,0,1392.0550111588109,1392.0550111588109,44,7,3,Success,-1338.0550111588109
+Box,Box_44,0,1398.3091027632506,1398.3091027632506,44,3,2,Success,-1349.3091027632506
+RAM,RAM_44,0,1405.6460290060368,1405.6460290060368,44,3,3,Success,-1355.6460290060368
+Processor,Processor_22,0,1412.1086335965797,1412.1086335965797,22,4,2,Success,-1384.1086335965797
+Processor,Processor_45,0,1418.3840487012176,1418.3840487012176,45,3,2,Success,-1368.3840487012176
+Storage,Storage_45,0,1423.8475293346091,1423.8475293346091,45,2,3,Success,-1373.8475293346091
+Box,Box_45,0,1432.08835012144,1432.08835012144,45,5,2,Success,-1380.08835012144
+RAM,RAM_45,0,1438.9275556356038,1438.9275556356038,45,2,3,Success,-1388.9275556356038
+Processor,Processor_46,0,1446.917821375571,1446.917821375571,46,4,2,Success,-1394.917821375571
+Storage,Storage_46,0,1453.073812867106,1453.073812867106,46,3,3,Success,-1401.073812867106
+Box,Box_46,0,1459.6103169308835,1459.6103169308835,46,4,2,Success,-1407.6103169308835
+RAM,RAM_46,0,1467.7336420894956,1467.7336420894956,46,4,3,Success,-1414.7336420894956
+Box,Box_47,0,1477.2656693077788,1477.2656693077788,47,7,2,Success,-1421.2656693077788
+RAM,RAM_47,0,1485.1963980137732,1485.1963980137732,47,3,3,Success,-1432.1963980137732
+Processor,Processor_48,0,1490.4310626357867,1490.4310626357867,48,2,2,Success,-1438.4310626357867
+Storage,Storage_48,0,1502.3947432337795,1502.3947432337795,48,7,3,Success,-1444.3947432337795
+Box,Box_48,0,1507.4124456741035,1507.4124456741035,48,3,2,Success,-1454.4124456741035
+RAM,RAM_48,0,1514.8359703205042,1514.8359703205042,48,3,3,Success,-1460.8359703205042
+Processor,Processor_49,0,1521.0170235627413,1521.0170235627413,49,4,2,Success,-1466.0170235627413
+Storage,Storage_49,0,1531.0428967067494,1531.0428967067494,49,6,3,Success,-1473.0428967067494
+Box,Box_49,0,1537.9971377811964,1537.9971377811964,49,3,2,Success,-1483.9971377811964
+RAM,RAM_49,0,1544.1391455223127,1544.1391455223127,49,3,3,Success,-1489.1391455223127
+Box,Box_35,0,1551.0689755418343,1551.0689755418343,35,4,2,Success,-1510.0689755418343
+Box,Box_43,0,1560.0784885187197,1560.0784885187197,43,6,2,Success,-1509.0784885187197
+Processor,Processor_47,0,1566.9506156723628,1566.9506156723628,47,4,2,Success,-1513.9506156723628
+Storage,Storage_47,0,1573.5708665992126,1573.5708665992126,47,3,3,Success,-1520.5708665992126

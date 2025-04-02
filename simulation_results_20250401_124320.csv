@@ -1,0 +1,81 @@
+Component,Name,Start_Time,End_Time,Total_Time,Assembly_Time,Main_Assembly_Time,Transport_Time,Status,Transport_Delay
+GraphicsCard,GraphicsCard_0,0,0.0,0.0,0,4,3,Failed: 'graphicscard',7.0
+GraphicsCard,GraphicsCard_1,0,0.0,0.0,1,4,3,Failed: 'graphicscard',8.0
+GraphicsCard,GraphicsCard_2,0,0.0,0.0,2,7,3,Failed: 'graphicscard',12.0
+GraphicsCard,GraphicsCard_3,0,0.0,0.0,3,2,3,Failed: 'graphicscard',8.0
+GraphicsCard,GraphicsCard_4,0,0.0,0.0,4,3,3,Failed: 'graphicscard',10.0
+GraphicsCard,GraphicsCard_5,0,0.0,0.0,5,6,3,Failed: 'graphicscard',14.0
+GraphicsCard,GraphicsCard_6,0,0.0,0.0,6,2,3,Failed: 'graphicscard',11.0
+GraphicsCard,GraphicsCard_7,0,0.0,0.0,7,7,3,Failed: 'graphicscard',17.0
+GraphicsCard,GraphicsCard_8,0,0.0,0.0,8,5,3,Failed: 'graphicscard',16.0
+GraphicsCard,GraphicsCard_9,0,0.0,0.0,9,3,3,Failed: 'graphicscard',15.0
+PowerSupply,PowerSupply_0,0,0.0,0.0,0,6,4,Failed: 'powersupply',10.0
+PowerSupply,PowerSupply_1,0,0.0,0.0,1,3,4,Failed: 'powersupply',8.0
+PowerSupply,PowerSupply_2,0,0.0,0.0,2,6,4,Failed: 'powersupply',12.0
+PowerSupply,PowerSupply_3,0,0.0,0.0,3,7,4,Failed: 'powersupply',14.0
+PowerSupply,PowerSupply_4,0,0.0,0.0,4,5,4,Failed: 'powersupply',13.0
+PowerSupply,PowerSupply_5,0,0.0,0.0,5,3,4,Failed: 'powersupply',12.0
+PowerSupply,PowerSupply_6,0,0.0,0.0,6,4,4,Failed: 'powersupply',14.0
+PowerSupply,PowerSupply_7,0,0.0,0.0,7,4,4,Failed: 'powersupply',15.0
+PowerSupply,PowerSupply_8,0,0.0,0.0,8,2,4,Failed: 'powersupply',14.0
+PowerSupply,PowerSupply_9,0,0.0,0.0,9,4,4,Failed: 'powersupply',17.0
+Motherboard,Motherboard_0,0,0.0,0.0,0,7,6,Failed: 'motherboard',13.0
+Motherboard,Motherboard_1,0,0.0,0.0,1,5,6,Failed: 'motherboard',12.0
+Motherboard,Motherboard_2,0,0.0,0.0,2,7,6,Failed: 'motherboard',15.0
+Motherboard,Motherboard_3,0,0.0,0.0,3,7,6,Failed: 'motherboard',16.0
+Motherboard,Motherboard_4,0,0.0,0.0,4,5,6,Failed: 'motherboard',15.0
+Motherboard,Motherboard_5,0,0.0,0.0,5,3,6,Failed: 'motherboard',14.0
+Motherboard,Motherboard_6,0,0.0,0.0,6,4,6,Failed: 'motherboard',16.0
+Motherboard,Motherboard_7,0,0.0,0.0,7,3,6,Failed: 'motherboard',16.0
+Motherboard,Motherboard_8,0,0.0,0.0,8,7,6,Failed: 'motherboard',21.0
+Motherboard,Motherboard_9,0,0.0,0.0,9,4,6,Failed: 'motherboard',19.0
+CoolingSystem,CoolingSystem_0,0,0.0,0.0,0,6,3,Failed: 'coolingsystem',9.0
+CoolingSystem,CoolingSystem_1,0,0.0,0.0,1,2,3,Failed: 'coolingsystem',6.0
+CoolingSystem,CoolingSystem_2,0,0.0,0.0,2,3,3,Failed: 'coolingsystem',8.0
+CoolingSystem,CoolingSystem_3,0,0.0,0.0,3,3,3,Failed: 'coolingsystem',9.0
+CoolingSystem,CoolingSystem_4,0,0.0,0.0,4,3,3,Failed: 'coolingsystem',10.0
+CoolingSystem,CoolingSystem_5,0,0.0,0.0,5,4,3,Failed: 'coolingsystem',12.0
+CoolingSystem,CoolingSystem_6,0,0.0,0.0,6,3,3,Failed: 'coolingsystem',12.0
+CoolingSystem,CoolingSystem_7,0,0.0,0.0,7,4,3,Failed: 'coolingsystem',14.0
+CoolingSystem,CoolingSystem_8,0,0.0,0.0,8,4,3,Failed: 'coolingsystem',15.0
+CoolingSystem,CoolingSystem_9,0,0.0,0.0,9,3,3,Failed: 'coolingsystem',15.0
+Processor,Processor_0,0,0.0,0.0,0,6,2,Success,8.0
+Storage,Storage_0,0,10.552265939648073,10.552265939648073,0,6,3,Success,-1.5522659396480734
+RAM,RAM_0,0,19.889934648377054,19.889934648377054,0,5,3,Success,-11.889934648377054
+Box,Box_0,0,29.472152964191842,29.472152964191842,0,6,2,Success,-21.472152964191842
+Processor,Processor_1,0,34.52866903274841,34.52866903274841,1,3,2,Success,-28.52866903274841
+Storage,Storage_1,0,44.571850576170995,44.571850576170995,1,6,3,Success,-34.571850576170995
+Box,Box_1,0,53.31463991197084,53.31463991197084,1,5,2,Success,-45.31463991197084
+RAM,RAM_1,0,61.34407819238307,61.34407819238307,1,4,3,Success,-53.34407819238307
+Processor,Processor_2,0,67.61882118823488,67.61882118823488,2,4,2,Success,-59.618821188234875
+Storage,Storage_2,0,75.61906620958969,75.61906620958969,2,4,3,Success,-66.61906620958969
+Box,Box_2,0,83.70998169172817,83.70998169172817,2,5,2,Success,-74.70998169172817
+RAM,RAM_2,0,90.4479827883479,90.4479827883479,2,3,3,Success,-82.4479827883479
+Processor,Processor_3,0,98.23484990876564,98.23484990876564,3,4,2,Success,-89.23484990876564
+Storage,Storage_3,0,107.91501160980198,107.91501160980198,3,6,3,Success,-95.91501160980198
+Box,Box_3,0,115.45851438657103,115.45851438657103,3,5,2,Success,-105.45851438657103
+RAM,RAM_3,0,121.47111736019966,121.47111736019966,3,2,3,Success,-113.47111736019966
+Processor,Processor_4,0,126.87766146272678,126.87766146272678,4,3,2,Success,-117.87766146272678
+Storage,Storage_4,0,133.52177591628913,133.52177591628913,4,3,3,Success,-123.52177591628913
+Box,Box_4,0,141.31811627816776,141.31811627816776,4,5,2,Success,-130.31811627816776
+RAM,RAM_4,0,151.19464125556192,151.19464125556192,4,5,3,Success,-139.19464125556192
+Storage,Storage_5,0,159.35536488152178,159.35536488152178,5,5,3,Success,-146.35536488152178
+RAM,RAM_5,0,164.7495546193354,164.7495546193354,5,2,3,Success,-154.7495546193354
+Processor,Processor_6,0,171.14855330836278,171.14855330836278,6,4,2,Success,-159.14855330836278
+Storage,Storage_6,0,181.13908333567878,181.13908333567878,6,5,3,Success,-167.13908333567878
+Box,Box_6,0,188.92070073896488,188.92070073896488,6,4,2,Success,-176.92070073896488
+RAM,RAM_6,0,196.30902732825493,196.30902732825493,6,4,3,Success,-183.30902732825493
+Processor,Processor_7,0,201.4382763084035,201.4382763084035,7,2,2,Success,-190.4382763084035
+Storage,Storage_7,0,210.60847636722286,210.60847636722286,7,6,3,Success,-194.60847636722286
+Box,Box_7,0,218.24253277270367,218.24253277270367,7,5,2,Success,-204.24253277270367
+RAM,RAM_7,0,224.9248212637521,224.9248212637521,7,3,3,Success,-211.9248212637521
+Processor,Processor_8,0,233.00018525938563,233.00018525938563,8,5,2,Success,-218.00018525938563
+Storage,Storage_8,0,241.8589339023445,241.8589339023445,8,4,3,Success,-226.8589339023445
+Box,Box_8,0,249.47697276432638,249.47697276432638,8,4,2,Success,-235.47697276432638
+Processor,Processor_9,0,254.54533959192528,254.54533959192528,9,2,2,Success,-241.54533959192528
+Storage,Storage_9,0,263.117499700341,263.117499700341,9,4,3,Success,-247.117499700341
+Box,Box_9,0,268.0854177758472,268.0854177758472,9,2,2,Success,-255.0854177758472
+RAM,RAM_9,0,278.5465384319554,278.5465384319554,9,6,3,Success,-260.5465384319554
+Processor,Processor_5,0,284.1004473169013,284.1004473169013,5,2,2,Success,-275.1004473169013
+Box,Box_5,0,292.61415079299894,292.61415079299894,5,6,2,Success,-279.61415079299894
+RAM,RAM_8,0,302.2797048817736,302.2797048817736,8,5,3,Success,-286.2797048817736
